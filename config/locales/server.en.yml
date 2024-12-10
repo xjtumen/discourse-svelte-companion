@@ -1,1 +1,3 @@
 en:
+  site_settings:
+    discourse_svelte_companion_enabled: "Enable the plugin."
