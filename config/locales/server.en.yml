@@ -1,3 +1,4 @@
 en:
   site_settings:
     discourse_svelte_companion_enabled: "Enable the plugin."
+    svelte_companion_global_id_length_half: "Half of the length of the global ID"

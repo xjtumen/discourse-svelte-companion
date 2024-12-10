@@ -2,3 +2,6 @@ discourse_svelte_companion:
   discourse_svelte_companion_enabled:
     default: false
     client: true
+  svelte_companion_global_id_length_half:
+    default: 32
+    client: true
